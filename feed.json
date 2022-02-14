@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-1.html",
+            "url": "https://pasiongavilanes.ml/capitulo-1.html",
+            "title": "Capitulo 1",
+            "summary": "MAS TARDE ESTARA DISPONIBLE EL REPRODUCTOR.",
+            "content_html": "<p><strong>MAS TARDE ESTARA DISPONIBLE EL REPRODUCTOR.</strong></p>",
+            "image": "https://pasiongavilanes.ml/media/posts/2/clipping_PwxqyX_b156.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-02-14T19:18:35+00:00",
+            "date_modified": "2022-02-14T19:18:35+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/vuelve-la-ficcion-que-enamoro-a-toda-una-generacion.html",
             "url": "https://pasiongavilanes.ml/vuelve-la-ficcion-que-enamoro-a-toda-una-generacion.html",
             "title": "Vuelve la ficción que enamoró a toda una generación",
