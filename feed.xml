@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-15T02:21:12+00:00</updated>
+    <updated>2022-02-15T02:48:37+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://pasiongavilanes.ml/capitulo-1.html"/>
         <id>https://pasiongavilanes.ml/capitulo-1.html</id>
+            <category term="Noticias"/>
             <category term="Capitulos"/>
 
-        <updated>2022-02-15T02:21:12+00:00</updated>
+        <updated>2022-02-15T02:48:37+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pasiongavilanes.ml/media/posts/2/clipping_PwxqyX_b156.jpg" alt="" />
