@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-15T02:48:37+00:00</updated>
+    <updated>2022-02-15T03:36:49+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -19,17 +19,21 @@
             <category term="Noticias"/>
             <category term="Capitulos"/>
 
-        <updated>2022-02-15T02:48:37+00:00</updated>
+        <updated>2022-02-15T03:36:49+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pasiongavilanes.ml/media/posts/2/clipping_PwxqyX_b156.jpg" alt="" />
-                    Capitulo se esta emitiendo en estos momentos, finalizada su emision pondremos el capitulo
+                    Parte 1 Parte 2 (disponible en breves) En unas horas estara completo en un video sin partes.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/2/clipping_PwxqyX_b156.jpg" alt="" />
-                <p>Capitulo se esta emitiendo en estos momentos, finalizada su emision pondremos el capitulo</p>
+                <p><strong>Parte 1 </strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4049642261052" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+<p><strong>Parte 2 (disponible en breves)</strong></p>
+<p> </p>
+<p>En unas horas estara completo en un video sin partes.</p>
             ]]>
         </content>
     </entry>
