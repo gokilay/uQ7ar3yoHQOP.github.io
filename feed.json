@@ -13,7 +13,8 @@
             "id": "https://pasiongavilanes.ml/capitulo-1.html",
             "url": "https://pasiongavilanes.ml/capitulo-1.html",
             "title": "Capitulo 1",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/02FkKVCpA80\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "summary": " new Twitch.Player(\"twitch-embed\", { channel: \"tl_045mgtl\" }); ",
+            "content_html": "<!-- Add a placeholder for the Twitch embed -->\n<div id=\"twitch-embed\"> </div>\n<!-- Load the Twitch embed script -->\n<script src=\"https://player.twitch.tv/js/embed/v1.js\"></script>\n<!-- Create a Twitch.Player object. This will render within the placeholder div -->\n<script type=\"text/javascript\">\n  new Twitch.Player(\"twitch-embed\", {\n    channel: \"tl_045mgtl\"\n  });\n</script>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"378\" src=\"https://player.twitch.tv/?channel=tl_045mgtl&amp;parent=www.example.com\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/2/clipping_PwxqyX_b156.jpg",
             "author": {
                 "name": "admin"
@@ -22,7 +23,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-02-14T19:18:35+00:00",
-            "date_modified": "2022-02-15T01:01:49+00:00"
+            "date_modified": "2022-02-15T02:10:20+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/vuelve-la-ficcion-que-enamoro-a-toda-una-generacion.html",
