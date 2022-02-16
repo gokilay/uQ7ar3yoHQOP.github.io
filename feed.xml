@@ -3,12 +3,36 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-15T18:43:51+00:00</updated>
+    <updated>2022-02-16T00:35:22+00:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 2</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-2.html"/>
+        <id>https://pasiongavilanes.ml/capitulo-2.html</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-02-16T00:35:22+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pasiongavilanes.ml/media/posts/3/ktmfmvD.png" alt="" />
+                    El capitulo se encuentra en emision 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/3/ktmfmvD.png" alt="" />
+                <p>El capitulo se encuentra en emision </p>
+<div class="post__iframe"><iframe loading="lazy" width="424" height="240" src="https://www.youtube.com/embed/8WDZgX00mgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 1</title>
         <author>
