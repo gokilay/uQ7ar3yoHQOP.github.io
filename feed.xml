@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-17T03:55:42+00:00</updated>
+    <updated>2022-02-17T04:06:10+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -18,12 +18,17 @@
         <id>https://pasiongavilanes.ml/capitulo-3.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-17T03:55:42+00:00</updated>
-            <summary></summary>
+        <updated>2022-02-17T04:06:10+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pasiongavilanes.ml/media/posts/4/ktmfmvD.png" alt="" />
+                    El capitulo estara disponible en breves
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/4/ktmfmvD.png" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/YuZUh2T1k1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                <p>El capitulo estara disponible en breves</p>
             ]]>
         </content>
     </entry>
