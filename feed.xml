@@ -3,12 +3,41 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-23T20:19:19+00:00</updated>
+    <updated>2022-02-23T20:41:03+00:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>🔴 En vivo</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/en-vivo.html"/>
+        <id>https://pasiongavilanes.ml/en-vivo.html</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-02-23T20:41:03+00:00</updated>
+            <summary>
+                <![CDATA[
+                    HORA DE EMISION 22:00 Hora actual en Miami 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center"><span style="color: #e67e23;"><strong>HORA DE EMISION  22:00</strong></span></h2>
+<div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width: 300px !important; min-height: 145px !important;">
+<p><a href="//24timezones.com/Miami/hora" style="text-decoration: none;" class="clock24" id="tz24-1645648764-c1156-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMSIsInNob3dzZWNvbmRzIjoiMCIsImNvbnRhaW5lcl9pZCI6ImNsb2NrX2Jsb2NrX2NiNjIxNjliN2NkNGJiZiIsInR5cGUiOiJkYiIsImxhbmciOiJlcyJ9" title="horario mundial - Miami" target="_blank" rel="nofollow noopener">Hora actual en Miami</a></p>
+<div id="clock_block_cb62169b7cd4bbf"> </div>
+</div>
+<p>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async=""></script>
+</p>
+<center><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4056110079548" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div></center>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 7</title>
         <author>
@@ -18,7 +47,7 @@
         <id>https://pasiongavilanes.ml/capitulo-7.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-23T20:19:19+00:00</updated>
+        <updated>2022-02-23T20:40:25+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -36,7 +65,7 @@
         <id>https://pasiongavilanes.ml/capitulo-6.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-22T15:28:35+00:00</updated>
+        <updated>2022-02-23T20:35:02+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -54,7 +83,7 @@
         <id>https://pasiongavilanes.ml/capitulo-5.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-22T07:25:49+00:00</updated>
+        <updated>2022-02-23T20:34:52+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -72,7 +101,7 @@
         <id>https://pasiongavilanes.ml/capitulo-4.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-19T02:56:23+00:00</updated>
+        <updated>2022-02-23T20:34:43+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -90,7 +119,7 @@
         <id>https://pasiongavilanes.ml/capitulo-3.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-18T02:32:18+00:00</updated>
+        <updated>2022-02-23T20:34:33+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -108,7 +137,7 @@
         <id>https://pasiongavilanes.ml/capitulo-2.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-16T18:31:04+00:00</updated>
+        <updated>2022-02-23T20:34:22+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -126,7 +155,7 @@
         <id>https://pasiongavilanes.ml/capitulo-1.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-23T20:08:13+00:00</updated>
+        <updated>2022-02-23T20:34:12+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
