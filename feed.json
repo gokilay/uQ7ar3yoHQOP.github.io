@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-7.html",
+            "url": "https://pasiongavilanes.ml/capitulo-7.html",
+            "title": "En directo: Capitulo 7",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4056110079548\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/8/ktmfmvD.png",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-02-22T02:55:42+00:00",
+            "date_modified": "2022-02-23T02:57:17+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-6.html",
             "url": "https://pasiongavilanes.ml/capitulo-6.html",
             "title": "Capitulo 6",
