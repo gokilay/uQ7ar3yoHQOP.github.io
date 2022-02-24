@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-24T04:13:41+00:00</updated>
+    <updated>2022-02-24T05:55:13+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -49,17 +49,12 @@
         <id>https://pasiongavilanes.ml/capitulo-8.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-24T04:13:41+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasiongavilanes.ml/media/posts/9/PDG2-C08-2.jpg" alt="" />
-                    Disponible en breves
-                ]]>
-            </summary>
+        <updated>2022-02-24T05:55:13+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/9/PDG2-C08-2.jpg" alt="" />
-                <h2 class="align-center"><strong>Disponible en breves</strong></h2>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3581153446519" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
