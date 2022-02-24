@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-24T03:28:28+00:00</updated>
+    <updated>2022-02-24T03:30:21+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://pasiongavilanes.ml/en-vivo.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-24T03:28:28+00:00</updated>
+        <updated>2022-02-24T03:30:21+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pasiongavilanes.ml/media/posts/10/16209443851623.jpg" alt="" />
@@ -37,7 +37,7 @@
 <script type="text/javascript" src="//w.24timezones.com/l.js" async=""></script>
 </p>
 <center><!-- Add a placeholder for the Twitch embed -->
-<div id="twitch-embed"> </div>
+<div id="vjs-poster"> </div>
 <!-- Load the Twitch embed script -->
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
 <!-- Create a Twitch.Player object. This will render within the placeholder div -->
