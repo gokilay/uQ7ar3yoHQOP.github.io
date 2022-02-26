@@ -14,8 +14,7 @@
             "id": "https://pasiongavilanes.ml/capitulo-10.html",
             "url": "https://pasiongavilanes.ml/capitulo-10.html",
             "title": "Capitulo 10",
-            "summary": "El capitulo estara disponible completo en breves",
-            "content_html": "<p>El capitulo estara disponible completo en breves</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3586241792631\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/12/16209443851623.jpg",
             "author": {
                 "name": "admin"
@@ -24,7 +23,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-02-26T02:45:36+00:00",
-            "date_modified": "2022-02-26T04:08:31+00:00"
+            "date_modified": "2022-02-26T05:04:06+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-9.html",
