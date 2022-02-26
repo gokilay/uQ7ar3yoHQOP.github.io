@@ -11,10 +11,27 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-10.html",
+            "url": "https://pasiongavilanes.ml/capitulo-10.html",
+            "title": "Capitulo 10",
+            "summary": "El capitulo estara disponible completo sin partes cuando finalice la emision Parte 1 Disponible en breves Parte 2 Disponible en breves Parte 3 Disponible en&hellip;",
+            "content_html": "<p>El capitulo estara disponible completo sin partes cuando finalice la emision</p>\n<p><strong>Parte 1</strong></p>\n<p>Disponible en breves</p>\n<p><strong>Parte 2</strong></p>\n<p>Disponible en breves</p>\n<p><strong>Parte 3</strong></p>\n<p>Disponible en breves</p>\n<p><strong>Parte 4</strong></p>\n<p>Disponible en breves</p>",
+            "image": "https://pasiongavilanes.ml/media/posts/12/16209443851623.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-02-26T02:45:36+00:00",
+            "date_modified": "2022-02-26T02:47:17+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-9.html",
             "url": "https://pasiongavilanes.ml/capitulo-9.html",
             "title": "Capitulo 9",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3583724620407\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/11/PASIONDEGAVILANES_S02_EP009_TLMD_800x450_2006537795557.jpg",
             "author": {
                 "name": "admin"
             },
@@ -22,7 +39,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-02-25T07:27:20+00:00",
-            "date_modified": "2022-02-25T07:27:53+00:00"
+            "date_modified": "2022-02-26T02:47:57+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-8.html",
@@ -143,22 +160,6 @@
             ],
             "date_published": "2022-02-14T19:18:35+00:00",
             "date_modified": "2022-02-23T20:34:12+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/vuelve-la-ficcion-que-enamoro-a-toda-una-generacion.html",
-            "url": "https://pasiongavilanes.ml/vuelve-la-ficcion-que-enamoro-a-toda-una-generacion.html",
-            "title": "Vuelve la ficción que enamoró a toda una generación",
-            "summary": "'Pasión de Gavilanes' consiguió enamorar los corazones de toda una generación. Diecinueve años después de su estreno, la ficción colombiana regresa a la televisión con&hellip;",
-            "content_html": "<p>'Pasión de Gavilanes' consiguió enamorar los corazones de toda una generación. Diecinueve años después de su estreno, la ficción colombiana regresa a la televisión con 'Pasión de Gavilanes: La dinastía continúa', la secuela que seguirá de cerca las aventuras de los descendientes de la familia Reyes Elizondo.</p>\n<p> </p>\n<p>Proximamente gran estreno.</p>",
-            "image": "https://pasiongavilanes.ml/media/posts/1/clipping_PwxqyX_b156.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Noticias"
-            ],
-            "date_published": "2022-02-06T20:45:18+00:00",
-            "date_modified": "2022-02-06T20:47:01+00:00"
         }
     ]
 }

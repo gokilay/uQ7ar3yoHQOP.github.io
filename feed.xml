@@ -3,12 +3,43 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-02-25T07:27:53+00:00</updated>
+    <updated>2022-02-26T02:47:57+00:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 10</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-10.html"/>
+        <id>https://pasiongavilanes.ml/capitulo-10.html</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-02-26T02:47:17+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pasiongavilanes.ml/media/posts/12/16209443851623.jpg" alt="" />
+                    El capitulo estara disponible completo sin partes cuando finalice la emision Parte 1 Disponible en breves Parte 2 Disponible en breves Parte 3 Disponible en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/12/16209443851623.jpg" alt="" />
+                <p>El capitulo estara disponible completo sin partes cuando finalice la emision</p>
+<p><strong>Parte 1</strong></p>
+<p>Disponible en breves</p>
+<p><strong>Parte 2</strong></p>
+<p>Disponible en breves</p>
+<p><strong>Parte 3</strong></p>
+<p>Disponible en breves</p>
+<p><strong>Parte 4</strong></p>
+<p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 9</title>
         <author>
@@ -18,10 +49,11 @@
         <id>https://pasiongavilanes.ml/capitulo-9.html</id>
             <category term="Capitulos"/>
 
-        <updated>2022-02-25T07:27:53+00:00</updated>
+        <updated>2022-02-26T02:47:57+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/11/PASIONDEGAVILANES_S02_EP009_TLMD_800x450_2006537795557.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3583724620407" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
@@ -167,31 +199,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/2/PASIONDEGAVILANES_S02_EP001_TLMD_800x450_2003028547785.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3443629034167" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vuelve la ficción que enamoró a toda una generación</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/vuelve-la-ficcion-que-enamoro-a-toda-una-generacion.html"/>
-        <id>https://pasiongavilanes.ml/vuelve-la-ficcion-que-enamoro-a-toda-una-generacion.html</id>
-            <category term="Noticias"/>
-
-        <updated>2022-02-06T20:47:01+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasiongavilanes.ml/media/posts/1/clipping_PwxqyX_b156.jpg" alt="" />
-                    'Pasión de Gavilanes' consiguió enamorar los corazones de toda una generación. Diecinueve años después de su estreno, la ficción colombiana regresa a la televisión con&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/1/clipping_PwxqyX_b156.jpg" alt="" />
-                <p>'Pasión de Gavilanes' consiguió enamorar los corazones de toda una generación. Diecinueve años después de su estreno, la ficción colombiana regresa a la televisión con 'Pasión de Gavilanes: La dinastía continúa', la secuela que seguirá de cerca las aventuras de los descendientes de la familia Reyes Elizondo.</p>
-<p> </p>
-<p>Proximamente gran estreno.</p>
             ]]>
         </content>
     </entry>
