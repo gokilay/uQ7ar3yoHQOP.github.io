@@ -11,8 +11,24 @@
     },
     "items": [
         {
-            "id": "https://pasiongavilanes.ml/capitulo-10-2.html",
-            "url": "https://pasiongavilanes.ml/capitulo-10-2.html",
+            "id": "https://pasiongavilanes.ml/capitulo-12.html",
+            "url": "https://pasiongavilanes.ml/capitulo-12.html",
+            "title": "Capitulo 12",
+            "summary": "Capitulo en breves",
+            "content_html": "<p>Capitulo en breves</p>",
+            "image": "https://pasiongavilanes.ml/media/posts/15/16209443851623.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-02T05:15:43+00:00",
+            "date_modified": "2022-03-02T05:16:31+00:00"
+        },
+        {
+            "id": "https://pasiongavilanes.ml/capitulo-11.html",
+            "url": "https://pasiongavilanes.ml/capitulo-11.html",
             "title": "Capitulo 11",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3966792043171\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/14/16209443851623.jpg",
@@ -23,7 +39,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-03-01T04:28:47+00:00",
-            "date_modified": "2022-03-01T04:29:00+00:00"
+            "date_modified": "2022-03-02T05:16:05+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-10.html",
@@ -144,21 +160,6 @@
             ],
             "date_published": "2022-02-16T20:21:34+00:00",
             "date_modified": "2022-02-23T20:34:33+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-2.html",
-            "url": "https://pasiongavilanes.ml/capitulo-2.html",
-            "title": "Capitulo 2",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3509338049046\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/3/PASIONDEGAVILANES_S02_EP002_TLMD_15.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-02-16T00:35:22+00:00",
-            "date_modified": "2022-02-23T20:34:22+00:00"
         }
     ]
 }
