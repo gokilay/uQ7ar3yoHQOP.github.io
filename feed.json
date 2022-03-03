@@ -14,8 +14,7 @@
             "id": "https://pasiongavilanes.ml/capitulo-12.html",
             "url": "https://pasiongavilanes.ml/capitulo-12.html",
             "title": "Capitulo 12",
-            "summary": "Capitulo en breves",
-            "content_html": "<p>Capitulo en breves</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3598941751927\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/15/16209443851623.jpg",
             "author": {
                 "name": "admin"
@@ -24,7 +23,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-03-02T05:15:43+00:00",
-            "date_modified": "2022-03-02T15:44:36+00:00"
+            "date_modified": "2022-03-03T04:39:02+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-11.html",
