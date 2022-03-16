@@ -3,12 +3,53 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-03-13T04:52:27+00:00</updated>
+    <updated>2022-03-16T04:32:46+00:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 21</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-21.html"/>
+        <id>https://pasiongavilanes.ml/capitulo-21.html</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-03-16T04:32:46+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pasiongavilanes.ml/media/posts/24/16209443851623.jpg" alt="" />
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/24/16209443851623.jpg" alt="" />
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Capitulo 20</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-20.html"/>
+        <id>https://pasiongavilanes.ml/capitulo-20.html</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-03-16T04:32:17+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/23/16209443851623.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3517856156343" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 19</title>
         <author>
@@ -150,42 +191,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/15/16209443851623.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3598941751927" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 11</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-11.html"/>
-        <id>https://pasiongavilanes.ml/capitulo-11.html</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-03-02T16:36:02+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/14/PASIONDEGAVILANES_S02_EP011_TLMD_800x450_2007967299742.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3966792043171" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 10</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-10.html"/>
-        <id>https://pasiongavilanes.ml/capitulo-10.html</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-03-01T04:30:05+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/12/PASIONDEGAVILANES_S02_EP010_TLMD_800x450_2006928451664.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3586241792631" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,37 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-21.html",
+            "url": "https://pasiongavilanes.ml/capitulo-21.html",
+            "title": "Capitulo 21",
+            "summary": "Disponible en breves",
+            "content_html": "<p>Disponible en breves</p>",
+            "image": "https://pasiongavilanes.ml/media/posts/24/16209443851623.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-16T04:31:44+00:00",
+            "date_modified": "2022-03-16T04:32:46+00:00"
+        },
+        {
+            "id": "https://pasiongavilanes.ml/capitulo-20.html",
+            "url": "https://pasiongavilanes.ml/capitulo-20.html",
+            "title": "Capitulo 20",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3517856156343\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/23/16209443851623.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-16T04:31:37+00:00",
+            "date_modified": "2022-03-16T04:32:17+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-19.html",
             "url": "https://pasiongavilanes.ml/capitulo-19.html",
             "title": "Capitulo 19",
@@ -129,36 +160,6 @@
             ],
             "date_published": "2022-03-02T05:15:43+00:00",
             "date_modified": "2022-03-13T04:51:56+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-11.html",
-            "url": "https://pasiongavilanes.ml/capitulo-11.html",
-            "title": "Capitulo 11",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3966792043171\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/14/PASIONDEGAVILANES_S02_EP011_TLMD_800x450_2007967299742.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-01T04:28:47+00:00",
-            "date_modified": "2022-03-02T16:36:02+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-10.html",
-            "url": "https://pasiongavilanes.ml/capitulo-10.html",
-            "title": "Capitulo 10",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3586241792631\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/12/PASIONDEGAVILANES_S02_EP010_TLMD_800x450_2006928451664.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-02-26T02:45:36+00:00",
-            "date_modified": "2022-03-01T04:30:05+00:00"
         }
     ]
 }
