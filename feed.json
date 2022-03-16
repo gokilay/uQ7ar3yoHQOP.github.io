@@ -14,8 +14,7 @@
             "id": "https://pasiongavilanes.ml/capitulo-21.html",
             "url": "https://pasiongavilanes.ml/capitulo-21.html",
             "title": "Capitulo 21",
-            "summary": "Disponible en breves",
-            "content_html": "<p>Disponible en breves</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3632808790647\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/24/16209443851623.jpg",
             "author": {
                 "name": "admin"
@@ -24,7 +23,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-03-16T04:31:44+00:00",
-            "date_modified": "2022-03-16T04:32:46+00:00"
+            "date_modified": "2022-03-16T05:26:01+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-20.html",
