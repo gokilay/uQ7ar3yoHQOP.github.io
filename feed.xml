@@ -3,12 +3,30 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-03-16T05:26:01+00:00</updated>
+    <updated>2022-03-17T18:46:12+00:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 22</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-22.html"/>
+        <id>https://pasiongavilanes.ml/capitulo-22.html</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-03-17T18:46:12+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/25/16209443851623.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3522379844279" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 21</title>
         <author>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/16/16209443851623.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3601305438839" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 12</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-12.html"/>
-        <id>https://pasiongavilanes.ml/capitulo-12.html</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-03-13T04:51:56+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/15/16209443851623.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3598941751927" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
