@@ -11,6 +11,51 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-29/",
+            "url": "https://pasiongavilanes.ml/capitulo-29/",
+            "title": "Capitulo 29",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3662904625783\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/32/16209443851623.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-26T05:48:26+00:00",
+            "date_modified": "2022-03-26T05:48:56+00:00"
+        },
+        {
+            "id": "https://pasiongavilanes.ml/capitulo-28/",
+            "url": "https://pasiongavilanes.ml/capitulo-28/",
+            "title": "Capitulo 28",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3548450589367\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/31/16209443851623.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-26T05:47:41+00:00",
+            "date_modified": "2022-03-26T05:48:21+00:00"
+        },
+        {
+            "id": "https://pasiongavilanes.ml/capitulo-27/",
+            "url": "https://pasiongavilanes.ml/capitulo-27/",
+            "title": "Capitulo 27",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3545128438455\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/30/16209443851623.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-26T05:46:36+00:00",
+            "date_modified": "2022-03-26T05:47:35+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-26/",
             "url": "https://pasiongavilanes.ml/capitulo-26/",
             "title": "Capitulo 26",
@@ -114,51 +159,6 @@
             ],
             "date_published": "2022-03-16T04:31:37+00:00",
             "date_modified": "2022-03-16T04:32:17+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-19/",
-            "url": "https://pasiongavilanes.ml/capitulo-19/",
-            "title": "Capitulo 19",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3509333658295\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/22/16209443851623.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-13T04:49:54+00:00",
-            "date_modified": "2022-03-13T04:50:54+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-18/",
-            "url": "https://pasiongavilanes.ml/capitulo-18/",
-            "title": "Capitulo 18",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3507591318199\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/21/16209443851623.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-12T02:40:30+00:00",
-            "date_modified": "2022-03-13T04:51:05+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-17/",
-            "url": "https://pasiongavilanes.ml/capitulo-17/",
-            "title": "Capitulo 17",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3504689646263\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/20/16209443851623.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-10T13:21:44+00:00",
-            "date_modified": "2022-03-13T04:51:20+00:00"
         }
     ]
 }
