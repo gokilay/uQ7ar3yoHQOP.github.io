@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-03-27T05:59:32+00:00</updated>
+    <updated>2022-03-27T06:04:34+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://pasiongavilanes.ml/telemundo-en-directo/</id>
             <category term="Extras"/>
 
-        <updated>2022-03-27T05:59:32+00:00</updated>
+        <updated>2022-03-27T06:04:34+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=tl_0125mgtl&amp;parent=www.example.com" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=tl_0125mgtl&amp;parent=pasiongavilanes.ml" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
             ]]>
         </content>
     </entry>
