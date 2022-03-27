@@ -2224,9 +2224,7 @@ background:transparent;
 font-size: 1.6em;
 }
 
-.recent-posts .entry-title a {
-line-height: 1.35em;
-}
+.recent-posts .entry-title a {line-height: 26px;font-size: 21px;font-weight: 400;}
 
 .recent-posts p {
 text-align: center;
