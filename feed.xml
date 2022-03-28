@@ -3,12 +3,36 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-03-27T17:28:22+00:00</updated>
+    <updated>2022-03-28T21:10:59+00:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 30</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-30-2/"/>
+        <id>https://pasiongavilanes.ml/capitulo-30-2/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-03-28T21:10:59+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg" alt="" />
+                    El capitulo estara disponible a partir de las 23:00 (hora Miami, 05:00 AM en España).
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg" alt="" />
+                <p>El capitulo estara disponible <span style="color: #e67e23;">a partir de las 23:00</span> (hora Miami, <strong>05:00 AM en España</strong>).</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Telemundo en directo</title>
         <author>
@@ -259,24 +283,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/27/PASIONDEGAVILANES_S02_EP024_TLMD_800x450_2014302275570.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3644684438135" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 23</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-23/"/>
-        <id>https://pasiongavilanes.ml/capitulo-23/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-03-26T20:38:43+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/26/PASIONDEGAVILANES_S02_EP023_TLMD_800x450_2013965891937.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3638792948343" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

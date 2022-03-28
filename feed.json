@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-30-2/",
+            "url": "https://pasiongavilanes.ml/capitulo-30-2/",
+            "title": "Capitulo 30",
+            "summary": "El capitulo estara disponible a partir de las 23:00 (hora Miami, 05:00 AM en España).",
+            "content_html": "<p>El capitulo estara disponible <span style=\"color: #e67e23;\">a partir de las 23:00</span> (hora Miami, <strong>05:00 AM en España</strong>).</p>\n<p> </p>",
+            "image": "https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-28T20:57:03+00:00",
+            "date_modified": "2022-03-28T21:10:59+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/telemundo-en-directo/",
             "url": "https://pasiongavilanes.ml/telemundo-en-directo/",
             "title": "Telemundo en directo",
@@ -147,21 +163,6 @@
             ],
             "date_published": "2022-03-19T05:22:46+00:00",
             "date_modified": "2022-03-26T20:39:03+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-23/",
-            "url": "https://pasiongavilanes.ml/capitulo-23/",
-            "title": "Capitulo 23",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3638792948343\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/26/PASIONDEGAVILANES_S02_EP023_TLMD_800x450_2013965891937.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-18T06:46:10+00:00",
-            "date_modified": "2022-03-26T20:38:43+00:00"
         }
     ]
 }
