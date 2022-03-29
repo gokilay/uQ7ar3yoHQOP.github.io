@@ -14,8 +14,7 @@
             "id": "https://pasiongavilanes.ml/capitulo-30-2/",
             "url": "https://pasiongavilanes.ml/capitulo-30-2/",
             "title": "Capitulo 30",
-            "summary": "Estamos subiendo el capitulo",
-            "content_html": "<p>Estamos subiendo el capitulo</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4041127824035\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg",
             "author": {
                 "name": "admin"
@@ -24,7 +23,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-03-28T20:57:03+00:00",
-            "date_modified": "2022-03-29T03:10:37+00:00"
+            "date_modified": "2022-03-29T03:23:43+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/telemundo-en-directo/",

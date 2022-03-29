@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-03-29T03:11:25+00:00</updated>
+    <updated>2022-03-29T03:23:43+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://pasiongavilanes.ml/capitulo-30-2/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-03-29T03:10:37+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg" alt="" />
-                    Estamos subiendo el capitulo
-                ]]>
-            </summary>
+        <updated>2022-03-29T03:23:43+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg" alt="" />
-                <p>Estamos subiendo el capitulo</p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4041127824035" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
