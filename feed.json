@@ -30,7 +30,7 @@
             "id": "https://pasiongavilanes.ml/telemundo-en-directo/",
             "url": "https://pasiongavilanes.ml/telemundo-en-directo/",
             "title": "Telemundo en directo",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"378\" src=\"https://player.twitch.tv/?channel=tlm_196mgt&amp;parent=pasiongavilanes.ml\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\"></iframe></div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"378\" src=\"https://player.twitch.tv/?channel=pasiondegavilanes2envivo&amp;parent=pasiongavilanes.ml\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg",
             "author": {
                 "name": "admin"
@@ -39,7 +39,7 @@
                    "Extras"
             ],
             "date_published": "2022-03-27T05:58:55+00:00",
-            "date_modified": "2022-03-29T02:00:32+00:00"
+            "date_modified": "2022-03-29T02:03:24+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/el-elenco-completo-de-pasion-de-gavilanes-2/",
