@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-03-29T02:03:24+00:00</updated>
+    <updated>2022-03-29T03:11:25+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -18,18 +18,17 @@
         <id>https://pasiongavilanes.ml/capitulo-30-2/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-03-28T21:10:59+00:00</updated>
+        <updated>2022-03-29T03:10:37+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg" alt="" />
-                    El capitulo estara disponible a partir de las 23:00 (hora Miami, 05:00 AM en España).
+                    Estamos subiendo el capitulo
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/37/PDG2-C30-1-561x316.jpg" alt="" />
-                <p>El capitulo estara disponible <span style="color: #e67e23;">a partir de las 23:00</span> (hora Miami, <strong>05:00 AM en España</strong>).</p>
-<p> </p>
+                <p>Estamos subiendo el capitulo</p>
             ]]>
         </content>
     </entry>
@@ -42,12 +41,18 @@
         <id>https://pasiongavilanes.ml/telemundo-en-directo/</id>
             <category term="Extras"/>
 
-        <updated>2022-03-29T02:03:24+00:00</updated>
-            <summary></summary>
+        <updated>2022-03-29T03:11:25+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
+                    EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=pasiondegavilanes2envivo&amp;parent=pasiongavilanes.ml" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
+                <p><strong>EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=pasiondegavilanes2envivo&amp;parent=pasiongavilanes.ml" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
             ]]>
         </content>
     </entry>
