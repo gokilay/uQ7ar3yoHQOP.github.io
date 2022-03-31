@@ -3,12 +3,30 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-03-31T00:23:14+00:00</updated>
+    <updated>2022-03-31T03:31:02+00:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 32</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-31-2/"/>
+        <id>https://pasiongavilanes.ml/capitulo-31-2/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-03-31T03:31:02+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/39/Pasion-de-Gavilanes-2-Capitulo-32-Completo.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4045379472035" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 31</title>
         <author>
@@ -260,24 +278,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/29/PASIONDEGAVILANES_S02_EP026_TLMD_800x450_2015389251559.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3543772302007" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 25</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-25/"/>
-        <id>https://pasiongavilanes.ml/capitulo-25/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-03-26T20:39:33+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/28/PASIONDEGAVILANES_S02_EP025_TLMD_800x450_2015077443729.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3540579191479" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
