@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-33/",
+            "url": "https://pasiongavilanes.ml/capitulo-33/",
+            "title": "Capitulo 33",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4047597013667\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/40/Pasion-de-Gavilanes-2-Capitulo-33-Completo.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-01T03:25:28+00:00",
+            "date_modified": "2022-04-01T03:27:22+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-32/",
             "url": "https://pasiongavilanes.ml/capitulo-32/",
             "title": "Capitulo 32",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4045379472035\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/39/Pasion-de-Gavilanes-2-Capitulo-32-Completo.jpg",
+            "image": "https://pasiongavilanes.ml/media/posts/39/PASIONDEGAVILANES_S02_EP032_TLMD_800x450_2018360387646.jpg",
             "author": {
                 "name": "admin"
             },
@@ -23,7 +38,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-03-31T03:30:15+00:00",
-            "date_modified": "2022-03-31T03:34:32+00:00"
+            "date_modified": "2022-04-01T03:28:00+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-31/",
@@ -147,21 +162,6 @@
             ],
             "date_published": "2022-03-26T05:46:36+00:00",
             "date_modified": "2022-03-26T20:40:29+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-26/",
-            "url": "https://pasiongavilanes.ml/capitulo-26/",
-            "title": "Capitulo 26",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3543772302007\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/29/PASIONDEGAVILANES_S02_EP026_TLMD_800x450_2015389251559.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-24T04:21:13+00:00",
-            "date_modified": "2022-03-26T20:39:58+00:00"
         }
     ]
 }
