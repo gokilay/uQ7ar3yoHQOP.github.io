@@ -74,8 +74,8 @@
             "id": "https://pasiongavilanes.ml/telemundo-en-directo/",
             "url": "https://pasiongavilanes.ml/telemundo-en-directo/",
             "title": "Telemundo en directo",
-            "summary": "EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)",
-            "content_html": "<p><strong>EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)</strong></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"378\" src=\"https://player.twitch.tv/?channel=pasiondegavilanes2envivo&amp;parent=pasiongavilanes.ml\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\"></iframe></div>",
+            "summary": "EL CAPITULO SE EMITE A LAS 21:00 HORA DE MIAMI (03 AM en España)",
+            "content_html": "<p><strong>EL CAPITULO SE EMITE A LAS 21:00 HORA DE MIAMI (03 AM en España)</strong></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"378\" src=\"https://player.twitch.tv/?channel=pasiondegavilanes2envivo&amp;parent=pasiongavilanes.ml\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\"></iframe></div>",
             "image": "https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg",
             "author": {
                 "name": "admin"
@@ -84,7 +84,7 @@
                    "Extras"
             ],
             "date_published": "2022-03-27T05:58:55+00:00",
-            "date_modified": "2022-03-29T03:11:25+00:00"
+            "date_modified": "2022-04-05T00:14:18+00:00"
         },
         {
             "id": "https://pasiongavilanes.ml/el-elenco-completo-de-pasion-de-gavilanes-2/",
