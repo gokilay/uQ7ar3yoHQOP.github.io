@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-05T02:48:13+00:00</updated>
+    <updated>2022-04-05T02:49:26+00:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -108,7 +108,7 @@
         <id>https://pasiongavilanes.ml/telemundo-en-directo/</id>
             <category term="Extras"/>
 
-        <updated>2022-04-05T02:48:13+00:00</updated>
+        <updated>2022-04-05T02:49:26+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
@@ -119,7 +119,7 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
                 <p><strong>EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)</strong></p>
-<div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=exatlonestadosunidos2022&amp;parent=pasiongavilanes.ml" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=pasion_de_gaviles2&amp;parent=pasiongavilanes.ml" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
             ]]>
         </content>
     </entry>
