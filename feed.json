@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-35/",
+            "url": "https://pasiongavilanes.ml/capitulo-35/",
+            "title": "Capitulo 35",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4056851221155\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/42/Pasion-de-Gavilanes-2-Capitulo-35-Completo-735x400.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-05T03:28:04+00:00",
+            "date_modified": "2022-04-05T03:29:21+00:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-34/",
             "url": "https://pasiongavilanes.ml/capitulo-34/",
             "title": "Capitulo 34",
@@ -147,21 +162,6 @@
             ],
             "date_published": "2022-03-26T05:48:26+00:00",
             "date_modified": "2022-03-26T20:41:07+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-28/",
-            "url": "https://pasiongavilanes.ml/capitulo-28/",
-            "title": "Capitulo 28",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3548450589367\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/31/PASIONDEGAVILANES_S02_EP028_TLMD_800x450_2016132675603.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-26T05:47:41+00:00",
-            "date_modified": "2022-03-26T20:40:50+00:00"
         }
     ]
 }
