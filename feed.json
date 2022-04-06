@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-36/",
+            "url": "https://pasiongavilanes.ml/capitulo-36/",
+            "title": "Capitulo 36",
+            "summary": "Disponible en breves",
+            "content_html": "<p>Disponible en breves</p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-06T04:00:38+01:00",
+            "date_modified": "2022-04-06T04:00:56+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-35/",
             "url": "https://pasiongavilanes.ml/capitulo-35/",
             "title": "Capitulo 35",
@@ -22,8 +37,8 @@
             "tags": [
                    "Capitulos"
             ],
-            "date_published": "2022-04-05T03:28:04+00:00",
-            "date_modified": "2022-04-05T03:29:21+00:00"
+            "date_published": "2022-04-05T04:28:04+01:00",
+            "date_modified": "2022-04-05T04:29:21+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-34/",
@@ -37,8 +52,8 @@
             "tags": [
                    "Capitulos"
             ],
-            "date_published": "2022-04-02T03:29:18+00:00",
-            "date_modified": "2022-04-05T00:19:05+00:00"
+            "date_published": "2022-04-02T04:29:18+01:00",
+            "date_modified": "2022-04-05T01:19:05+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-33/",
@@ -52,8 +67,8 @@
             "tags": [
                    "Capitulos"
             ],
-            "date_published": "2022-04-01T03:25:28+00:00",
-            "date_modified": "2022-04-05T00:20:31+00:00"
+            "date_published": "2022-04-01T04:25:28+01:00",
+            "date_modified": "2022-04-05T01:20:31+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-32/",
@@ -67,8 +82,8 @@
             "tags": [
                    "Capitulos"
             ],
-            "date_published": "2022-03-31T03:30:15+00:00",
-            "date_modified": "2022-04-01T03:28:33+00:00"
+            "date_published": "2022-03-31T04:30:15+01:00",
+            "date_modified": "2022-04-01T04:28:33+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-31/",
@@ -82,8 +97,8 @@
             "tags": [
                    "Capitulos"
             ],
-            "date_published": "2022-03-30T02:02:22+00:00",
-            "date_modified": "2022-03-31T00:23:14+00:00"
+            "date_published": "2022-03-30T03:02:22+01:00",
+            "date_modified": "2022-03-31T01:23:14+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-30-2/",
@@ -97,8 +112,8 @@
             "tags": [
                    "Capitulos"
             ],
-            "date_published": "2022-03-28T20:57:03+00:00",
-            "date_modified": "2022-03-30T02:05:10+00:00"
+            "date_published": "2022-03-28T21:57:03+01:00",
+            "date_modified": "2022-03-30T03:05:10+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/telemundo-en-directo/",
@@ -113,8 +128,8 @@
             "tags": [
                    "Extras"
             ],
-            "date_published": "2022-03-27T05:58:55+00:00",
-            "date_modified": "2022-04-05T02:49:26+00:00"
+            "date_published": "2022-03-27T06:58:55+01:00",
+            "date_modified": "2022-04-05T03:49:26+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/el-elenco-completo-de-pasion-de-gavilanes-2/",
@@ -129,8 +144,8 @@
             "tags": [
                    "Extras"
             ],
-            "date_published": "2022-03-27T05:55:32+00:00",
-            "date_modified": "2022-03-27T05:55:32+00:00"
+            "date_published": "2022-03-27T06:55:32+01:00",
+            "date_modified": "2022-03-27T06:55:32+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/test/",
@@ -145,23 +160,8 @@
             "tags": [
                    "Extras"
             ],
-            "date_published": "2022-03-27T05:28:39+00:00",
-            "date_modified": "2022-03-27T05:45:37+00:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-29/",
-            "url": "https://pasiongavilanes.ml/capitulo-29/",
-            "title": "Capitulo 29",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3662904625783\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/32/PASIONDEGAVILANES_S02_EP029_TLMD_800x450_2016528963904.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-26T05:48:26+00:00",
-            "date_modified": "2022-03-26T20:41:07+00:00"
+            "date_published": "2022-03-27T06:28:39+01:00",
+            "date_modified": "2022-03-27T06:45:37+01:00"
         }
     ]
 }
