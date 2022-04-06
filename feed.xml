@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-06T04:20:21+01:00</updated>
+    <updated>2022-04-06T04:21:13+01:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://pasiongavilanes.ml/capitulo-36/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-04-06T04:20:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasiongavilanes.ml/media/posts/43/Pasion-de-Gavilanes-2-Capitulo-36-Completo-735x400.jpg" alt="" />
-                    Disponible en breves
-                ]]>
-            </summary>
+        <updated>2022-04-06T04:21:13+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/43/Pasion-de-Gavilanes-2-Capitulo-36-Completo-735x400.jpg" alt="" />
-                <p>Disponible en breves</p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4059135412899" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
