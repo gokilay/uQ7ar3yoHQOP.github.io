@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-38/",
+            "url": "https://pasiongavilanes.ml/capitulo-38/",
+            "title": "Capitulo 38",
+            "summary": "Disponible en breves",
+            "content_html": "<p>Disponible en breves</p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-08T04:00:54+01:00",
+            "date_modified": "2022-04-08T04:02:05+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-37/",
             "url": "https://pasiongavilanes.ml/capitulo-37/",
             "title": "Capitulo 37",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4059135412899\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/44/Pasion-de-Gavilanes-2-Capitulo-36-Completo-735x400.jpg",
+            "image": "https://pasiongavilanes.ml/media/posts/44/PASIONDEGAVILANES_S02_EP037_TLMD_800x450_2020469827661.jpg",
             "author": {
                 "name": "admin"
             },
@@ -23,7 +38,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-04-07T04:31:43+01:00",
-            "date_modified": "2022-04-07T04:32:56+01:00"
+            "date_modified": "2022-04-08T04:01:56+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-36/",
@@ -145,22 +160,6 @@
             ],
             "date_published": "2022-03-27T06:58:55+01:00",
             "date_modified": "2022-04-05T03:49:26+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/el-elenco-completo-de-pasion-de-gavilanes-2/",
-            "url": "https://pasiongavilanes.ml/el-elenco-completo-de-pasion-de-gavilanes-2/",
-            "title": "El elenco completo de Pasión de Gavilanes 2",
-            "summary": "Mario Cimarro y Danna García vuelven a ‘Pasión de Gavilanes’, en donde podremos ver una nueva generación de la familia Reyes Elizondo y otros obstáculos&hellip;",
-            "content_html": "<p>Mario Cimarro y Danna García vuelven a ‘Pasión de Gavilanes’, en donde podremos ver una nueva generación de la familia Reyes Elizondo y otros obstáculos a superar.</p>\n<p>En esta nueva entrega regresa el elenco original, conformado por <strong>Mario Cimarro</strong>, <strong>Danna García</strong>, <strong>Juan Alfonso Baptista</strong>, <strong>Natasha Klauss</strong>, <strong>Michel Brown</strong> y <strong>Paola Rey</strong>.</p>\n<p class=\"\">A esta nueva temporada se unen <strong>Bernardo Flores</strong>, <strong>Sebastián Osorio</strong> y <strong>Juan Manuel Restrepo</strong> como los hijos de Juan y Norma, y representando la nueva generación.</p>\n<p class=\"\">El elenco lo completan Camila Rojas, Alejandro López, Yare Santana, Jerónimo Cantillo, Germán Quintero, Constanza Hernández, Carmenza González, Tatiana Jauregui, Ángel de Miguel, Boris Schoemann, Jacobo Montalvo, Jhonatan Bedoya, Sebastián Vega, Valeria Caicedo, Katherine Porto y Álvaro García.</p>",
-            "image": "https://pasiongavilanes.ml/media/posts/34/elenco.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Extras"
-            ],
-            "date_published": "2022-03-27T06:55:32+01:00",
-            "date_modified": "2022-03-27T06:55:32+01:00"
         }
     ]
 }

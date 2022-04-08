@@ -3,12 +3,33 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-07T04:32:56+01:00</updated>
+    <updated>2022-04-08T04:02:05+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 38</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-38/"/>
+        <id>https://pasiongavilanes.ml/capitulo-38/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-04-08T04:02:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 37</title>
         <author>
@@ -18,11 +39,11 @@
         <id>https://pasiongavilanes.ml/capitulo-37/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-04-07T04:32:56+01:00</updated>
+        <updated>2022-04-08T04:01:56+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/44/Pasion-de-Gavilanes-2-Capitulo-36-Completo-735x400.jpg" alt="" />
+                    <img src="https://pasiongavilanes.ml/media/posts/44/PASIONDEGAVILANES_S02_EP037_TLMD_800x450_2020469827661.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4059135412899" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
@@ -174,32 +195,6 @@
                     <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
                 <p><strong>EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=pasion_de_gaviles2&amp;parent=pasiongavilanes.ml" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>El elenco completo de Pasión de Gavilanes 2</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/el-elenco-completo-de-pasion-de-gavilanes-2/"/>
-        <id>https://pasiongavilanes.ml/el-elenco-completo-de-pasion-de-gavilanes-2/</id>
-            <category term="Extras"/>
-
-        <updated>2022-03-27T06:55:32+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasiongavilanes.ml/media/posts/34/elenco.jpg" alt="" />
-                    Mario Cimarro y Danna García vuelven a ‘Pasión de Gavilanes’, en donde podremos ver una nueva generación de la familia Reyes Elizondo y otros obstáculos&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/34/elenco.jpg" alt="" />
-                <p>Mario Cimarro y Danna García vuelven a ‘Pasión de Gavilanes’, en donde podremos ver una nueva generación de la familia Reyes Elizondo y otros obstáculos a superar.</p>
-<p>En esta nueva entrega regresa el elenco original, conformado por <strong>Mario Cimarro</strong>, <strong>Danna García</strong>, <strong>Juan Alfonso Baptista</strong>, <strong>Natasha Klauss</strong>, <strong>Michel Brown</strong> y <strong>Paola Rey</strong>.</p>
-<p class="">A esta nueva temporada se unen <strong>Bernardo Flores</strong>, <strong>Sebastián Osorio</strong> y <strong>Juan Manuel Restrepo</strong> como los hijos de Juan y Norma, y representando la nueva generación.</p>
-<p class="">El elenco lo completan Camila Rojas, Alejandro López, Yare Santana, Jerónimo Cantillo, Germán Quintero, Constanza Hernández, Carmenza González, Tatiana Jauregui, Ángel de Miguel, Boris Schoemann, Jacobo Montalvo, Jhonatan Bedoya, Sebastián Vega, Valeria Caicedo, Katherine Porto y Álvaro García.</p>
             ]]>
         </content>
     </entry>
