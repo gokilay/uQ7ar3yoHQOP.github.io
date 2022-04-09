@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-39/",
+            "url": "https://pasiongavilanes.ml/capitulo-39/",
+            "title": "Capitulo 39",
+            "summary": "Disponible en breves",
+            "content_html": "<p>Disponible en breves</p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-09T04:00:13+01:00",
+            "date_modified": "2022-04-09T04:00:36+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-38/",
             "url": "https://pasiongavilanes.ml/capitulo-38/",
             "title": "Capitulo 38",
@@ -144,22 +159,6 @@
             ],
             "date_published": "2022-03-28T21:57:03+01:00",
             "date_modified": "2022-03-30T03:05:10+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/telemundo-en-directo/",
-            "url": "https://pasiongavilanes.ml/telemundo-en-directo/",
-            "title": "Telemundo en directo",
-            "summary": "EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)",
-            "content_html": "<p><strong>EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)</strong></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"378\" src=\"https://player.twitch.tv/?channel=pasion_de_gaviles2&amp;parent=pasiongavilanes.ml\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Extras"
-            ],
-            "date_published": "2022-03-27T06:58:55+01:00",
-            "date_modified": "2022-04-05T03:49:26+01:00"
         }
     ]
 }

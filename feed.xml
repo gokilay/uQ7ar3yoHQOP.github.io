@@ -3,12 +3,33 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-08T04:27:41+01:00</updated>
+    <updated>2022-04-09T04:00:36+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 39</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-39/"/>
+        <id>https://pasiongavilanes.ml/capitulo-39/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-04-09T04:00:36+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 38</title>
         <author>
@@ -168,30 +189,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/37/PASIONDEGAVILANES_S02_EP030_TLMD_800x450_2017193027754.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4041127824035" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Telemundo en directo</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/telemundo-en-directo/"/>
-        <id>https://pasiongavilanes.ml/telemundo-en-directo/</id>
-            <category term="Extras"/>
-
-        <updated>2022-04-05T03:49:26+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
-                    EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/35/default_feed_logo_image.jpg" alt="" />
-                <p><strong>EL CAPITULO SE EMITE A LAS 22:00 HORA DE MIAMI (04 AM en España)</strong></p>
-<div class="post__iframe"><iframe loading="lazy" width="620" height="378" src="https://player.twitch.tv/?channel=pasion_de_gaviles2&amp;parent=pasiongavilanes.ml" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div>
             ]]>
         </content>
     </entry>
