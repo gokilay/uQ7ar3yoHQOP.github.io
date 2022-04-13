@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-41/",
+            "url": "https://pasiongavilanes.ml/capitulo-41/",
+            "title": "Capitulo 41",
+            "summary": "Disponible en breves",
+            "content_html": "<p>Disponible en breves</p>",
+            "image": "https://pasiongavilanes.ml/media/posts/48/Pasion-de-Gavilanes-2-Capitulo-41-Completo-735x400.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-13T04:06:56+01:00",
+            "date_modified": "2022-04-13T04:08:31+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-40/",
             "url": "https://pasiongavilanes.ml/capitulo-40/",
             "title": "Capitulo 40",
@@ -144,21 +160,6 @@
             ],
             "date_published": "2022-03-31T04:30:15+01:00",
             "date_modified": "2022-04-01T04:28:33+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-31/",
-            "url": "https://pasiongavilanes.ml/capitulo-31/",
-            "title": "Capitulo 31",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4159471290940\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/38/PASIONDEGAVILANES_S02_EP031_TLMD_800x450_2017584707771.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-03-30T03:02:22+01:00",
-            "date_modified": "2022-03-31T01:23:14+01:00"
         }
     ]
 }

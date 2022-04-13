@@ -3,12 +3,35 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-13T04:07:48+01:00</updated>
+    <updated>2022-04-13T04:08:31+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 41</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-41/"/>
+        <id>https://pasiongavilanes.ml/capitulo-41/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-04-13T04:08:31+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pasiongavilanes.ml/media/posts/48/Pasion-de-Gavilanes-2-Capitulo-41-Completo-735x400.jpg" alt="" />
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/48/Pasion-de-Gavilanes-2-Capitulo-41-Completo-735x400.jpg" alt="" />
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 40</title>
         <author>
@@ -168,24 +191,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/39/PASIONDEGAVILANES_S02_EP032_TLMD_800x450_2018360387646.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4045379472035" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 31</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-31/"/>
-        <id>https://pasiongavilanes.ml/capitulo-31/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-03-31T01:23:14+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/38/PASIONDEGAVILANES_S02_EP031_TLMD_800x450_2017584707771.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4159471290940" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
