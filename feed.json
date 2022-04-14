@@ -11,21 +11,6 @@
     },
     "items": [
         {
-            "id": "https://pasiongavilanes.ml/capitulo-42/",
-            "url": "https://pasiongavilanes.ml/capitulo-42/",
-            "title": "Capitulo 42",
-            "summary": "Disponible en breves",
-            "content_html": "<p>Disponible en breves</p>",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-04-14T04:38:08+01:00",
-            "date_modified": "2022-04-14T04:40:14+01:00"
-        },
-        {
             "id": "https://pasiongavilanes.ml/capitulo-41/",
             "url": "https://pasiongavilanes.ml/capitulo-41/",
             "title": "Capitulo 41",
@@ -159,6 +144,21 @@
             ],
             "date_published": "2022-04-01T04:25:28+01:00",
             "date_modified": "2022-04-05T01:20:31+01:00"
+        },
+        {
+            "id": "https://pasiongavilanes.ml/capitulo-32/",
+            "url": "https://pasiongavilanes.ml/capitulo-32/",
+            "title": "Capitulo 32",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4045379472035\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/39/PASIONDEGAVILANES_S02_EP032_TLMD_800x450_2018360387646.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-03-31T04:30:15+01:00",
+            "date_modified": "2022-04-01T04:28:33+01:00"
         }
     ]
 }
