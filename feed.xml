@@ -3,12 +3,33 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-13T04:24:46+01:00</updated>
+    <updated>2022-04-14T04:40:31+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 42</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-42/"/>
+        <id>https://pasiongavilanes.ml/capitulo-42/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-04-14T04:40:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 41</title>
         <author>
@@ -18,11 +39,11 @@
         <id>https://pasiongavilanes.ml/capitulo-41/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-04-13T04:24:46+01:00</updated>
+        <updated>2022-04-14T04:40:31+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/48/Pasion-de-Gavilanes-2-Capitulo-41-Completo-735x400.jpg" alt="" />
+                    <img src="https://pasiongavilanes.ml/media/posts/48/41.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4074883451555" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
@@ -168,24 +189,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/40/PASIONDEGAVILANES_S02_EP033_TLMD_800x450_2018483779949.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4047597013667" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 32</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-32/"/>
-        <id>https://pasiongavilanes.ml/capitulo-32/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-04-01T04:28:33+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/39/PASIONDEGAVILANES_S02_EP032_TLMD_800x450_2018360387646.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4045379472035" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
