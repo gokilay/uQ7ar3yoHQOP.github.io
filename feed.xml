@@ -3,12 +3,29 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-15T05:01:56+01:00</updated>
+    <updated>2022-04-16T05:29:12+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 43</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-43/"/>
+        <id>https://pasiongavilanes.ml/capitulo-43/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-04-16T05:29:12+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4081011722915" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 42</title>
         <author>
@@ -168,24 +185,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/41/PASIONDEGAVILANES_S02_EP034_TLMD_800x450_2019022403819.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4050124147363" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 33</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-33/"/>
-        <id>https://pasiongavilanes.ml/capitulo-33/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-04-05T01:20:31+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/40/PASIONDEGAVILANES_S02_EP033_TLMD_800x450_2018483779949.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4047597013667" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
