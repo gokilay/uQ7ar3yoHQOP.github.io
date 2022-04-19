@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-44/",
+            "url": "https://pasiongavilanes.ml/capitulo-44/",
+            "title": "Capitulo 44",
+            "summary": "Disponible en breves",
+            "content_html": "<p>Disponible en breves</p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-19T04:01:32+01:00",
+            "date_modified": "2022-04-19T04:01:55+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-43/",
             "url": "https://pasiongavilanes.ml/capitulo-43/",
             "title": "Capitulo 43",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4081011722915\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/50/Pasion-de-Gavilanes-2-Capitulo-43-Completo-735x400.jpg",
+            "image": "https://pasiongavilanes.ml/media/posts/50/PASIONDEGAVILANES_S02_EP043_TLMD_800x450_2023548995584.jpg",
             "author": {
                 "name": "admin"
             },
@@ -23,14 +38,14 @@
                    "Capitulos"
             ],
             "date_published": "2022-04-16T05:28:18+01:00",
-            "date_modified": "2022-04-16T06:36:35+01:00"
+            "date_modified": "2022-04-19T04:01:20+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-42/",
             "url": "https://pasiongavilanes.ml/capitulo-42/",
             "title": "Capitulo 42",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4078914898595\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/49/Pasion-de-Gavilanes-2-Capitulo-42-Completo-735x400.jpg",
+            "image": "https://pasiongavilanes.ml/media/posts/49/PASIONDEGAVILANES_S02_EP042_TLMD_800x450_2023127619561.jpg",
             "author": {
                 "name": "admin"
             },
@@ -38,7 +53,7 @@
                    "Capitulos"
             ],
             "date_published": "2022-04-14T04:38:08+01:00",
-            "date_modified": "2022-04-15T05:01:56+01:00"
+            "date_modified": "2022-04-19T04:01:30+01:00"
         },
         {
             "id": "https://pasiongavilanes.ml/capitulo-41/",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-04-05T04:28:04+01:00",
             "date_modified": "2022-04-06T04:19:30+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-34/",
-            "url": "https://pasiongavilanes.ml/capitulo-34/",
-            "title": "Capitulo 34",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4050124147363\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/41/PASIONDEGAVILANES_S02_EP034_TLMD_800x450_2019022403819.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-04-02T04:29:18+01:00",
-            "date_modified": "2022-04-05T01:19:05+01:00"
         }
     ]
 }

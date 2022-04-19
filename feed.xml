@@ -3,12 +3,33 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-16T06:36:35+01:00</updated>
+    <updated>2022-04-19T04:01:55+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 44</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-44/"/>
+        <id>https://pasiongavilanes.ml/capitulo-44/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-04-19T04:01:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 43</title>
         <author>
@@ -18,11 +39,11 @@
         <id>https://pasiongavilanes.ml/capitulo-43/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-04-16T06:36:35+01:00</updated>
+        <updated>2022-04-19T04:01:20+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/50/Pasion-de-Gavilanes-2-Capitulo-43-Completo-735x400.jpg" alt="" />
+                    <img src="https://pasiongavilanes.ml/media/posts/50/PASIONDEGAVILANES_S02_EP043_TLMD_800x450_2023548995584.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4081011722915" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
@@ -36,11 +57,11 @@
         <id>https://pasiongavilanes.ml/capitulo-42/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-04-15T05:01:56+01:00</updated>
+        <updated>2022-04-19T04:01:30+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/49/Pasion-de-Gavilanes-2-Capitulo-42-Completo-735x400.jpg" alt="" />
+                    <img src="https://pasiongavilanes.ml/media/posts/49/PASIONDEGAVILANES_S02_EP042_TLMD_800x450_2023127619561.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4078914898595" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
@@ -168,24 +189,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/42/PASIONDEGAVILANES_S02_EP035_TLMD_800x450_2019691587948.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4056851221155" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 34</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-34/"/>
-        <id>https://pasiongavilanes.ml/capitulo-34/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-04-05T01:19:05+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/41/PASIONDEGAVILANES_S02_EP034_TLMD_800x450_2019022403819.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4050124147363" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
