@@ -3,7 +3,7 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-21T04:00:47+01:00</updated>
+    <updated>2022-04-21T04:44:45+01:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -18,15 +18,12 @@
         <id>https://pasiongavilanes.ml/capitulo-46/</id>
             <category term="Capitulos"/>
 
-        <updated>2022-04-21T04:00:47+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Disponible en breves
-                ]]>
-            </summary>
+        <updated>2022-04-21T04:44:45+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Disponible en breves</p>
+                    <img src="https://pasiongavilanes.ml/media/posts/53/Pasion-de-Gavilanes-2-Capitulo-46-Completo.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4092529609379" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
