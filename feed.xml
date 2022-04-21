@@ -3,12 +3,33 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-04-20T08:00:19+01:00</updated>
+    <updated>2022-04-21T04:00:47+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 46</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-46/"/>
+        <id>https://pasiongavilanes.ml/capitulo-46/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-04-21T04:00:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Disponible en breves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Disponible en breves</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 45</title>
         <author>
@@ -167,24 +188,6 @@
         <content type="html">
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/44/PASIONDEGAVILANES_S02_EP037_TLMD_800x450_2020469827661.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4059135412899" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 36</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-36/"/>
-        <id>https://pasiongavilanes.ml/capitulo-36/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-04-07T04:31:54+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/43/PASIONDEGAVILANES_S02_EP036_TLMD_800x450_2020157507761.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4059135412899" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
