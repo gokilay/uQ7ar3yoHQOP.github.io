@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-49/",
+            "url": "https://pasiongavilanes.ml/capitulo-49/",
+            "title": "Capitulo 49",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4107330259619\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/56/Pasion-de-Gavilanes-2-Capitulo-49-Completo.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-27T04:16:20+01:00",
+            "date_modified": "2022-04-27T04:45:26+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-47-2/",
             "url": "https://pasiongavilanes.ml/capitulo-47-2/",
             "title": "Capitulo 48",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-04-12T04:36:30+01:00",
             "date_modified": "2022-04-13T04:07:48+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-39/",
-            "url": "https://pasiongavilanes.ml/capitulo-39/",
-            "title": "Capitulo 39",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4066133084835\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/46/PASIONDEGAVILANES_S02_EP039_TLMD_800x450_2021257283832.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-04-09T04:00:13+01:00",
-            "date_modified": "2022-04-12T04:39:09+01:00"
         }
     ]
 }
