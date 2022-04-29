@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-51/",
+            "url": "https://pasiongavilanes.ml/capitulo-51/",
+            "title": "Capitulo 51",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3961607096980\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/58/Pasion-de-Gavilanes-2-Capitulo-51-Completo.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-04-29T05:37:50+01:00",
+            "date_modified": "2022-04-29T05:39:38+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-50/",
             "url": "https://pasiongavilanes.ml/capitulo-50/",
             "title": "Capitulo 50",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-04-14T04:38:08+01:00",
             "date_modified": "2022-04-19T04:01:30+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-41/",
-            "url": "https://pasiongavilanes.ml/capitulo-41/",
-            "title": "Capitulo 41",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4074883451555\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/48/41.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-04-13T04:06:56+01:00",
-            "date_modified": "2022-04-14T04:40:31+01:00"
         }
     ]
 }
