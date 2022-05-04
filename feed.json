@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-54/",
+            "url": "https://pasiongavilanes.ml/capitulo-54/",
+            "title": "Capitulo 54",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4123211991715\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/61/Pasion-de-Gavilanes-2-Capitulo-54-Completo.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-05-04T05:25:35+01:00",
+            "date_modified": "2022-05-04T05:28:17+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-51-3/",
             "url": "https://pasiongavilanes.ml/capitulo-51-3/",
             "title": "Capitulo 53",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-04-20T07:58:40+01:00",
             "date_modified": "2022-04-23T19:15:04+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-44/",
-            "url": "https://pasiongavilanes.ml/capitulo-44/",
-            "title": "Capitulo 44",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4087987964579\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/51/PASIONDEGAVILANES_S02_EP044_TLMD_800x450_2024098883989.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-04-19T04:01:32+01:00",
-            "date_modified": "2022-04-23T19:15:26+01:00"
         }
     ]
 }
