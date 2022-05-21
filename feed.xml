@@ -3,12 +3,30 @@
     <title>Pasion de Gavilanes</title>
     <link href="https://pasiongavilanes.ml/feed.xml" rel="self" />
     <link href="https://pasiongavilanes.ml" />
-    <updated>2022-05-20T06:34:47+01:00</updated>
+    <updated>2022-05-21T06:10:34+01:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://pasiongavilanes.ml</id>
 
+    <entry>
+        <title>Capitulo 64</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://pasiongavilanes.ml/capitulo-64/"/>
+        <id>https://pasiongavilanes.ml/capitulo-64/</id>
+            <category term="Capitulos"/>
+
+        <updated>2022-05-21T06:10:34+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pasiongavilanes.ml/media/posts/71/Pasion-de-Gavilanes-2-Capitulo-64-Completo-735x400.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4161622968995" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Capitulo 63</title>
         <author>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://pasiongavilanes.ml/media/posts/62/Pasion-de-Gavilanes-2-Capitulo-55-Completo.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4004855351956" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capitulo 54</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://pasiongavilanes.ml/capitulo-54/"/>
-        <id>https://pasiongavilanes.ml/capitulo-54/</id>
-            <category term="Capitulos"/>
-
-        <updated>2022-05-19T06:06:52+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pasiongavilanes.ml/media/posts/61/Pasion-de-Gavilanes-2-Capitulo-54-Completo.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3975869696660" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
