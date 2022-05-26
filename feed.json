@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://pasiongavilanes.ml/capitulo-67/",
+            "url": "https://pasiongavilanes.ml/capitulo-67/",
+            "title": "Capitulo 67",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4172316478115\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://pasiongavilanes.ml/media/posts/74/74.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Capitulos"
+            ],
+            "date_published": "2022-05-26T08:17:30+01:00",
+            "date_modified": "2022-05-26T08:17:30+01:00"
+        },
+        {
             "id": "https://pasiongavilanes.ml/capitulo-66/",
             "url": "https://pasiongavilanes.ml/capitulo-66/",
             "title": "Capitulo 66",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-05-12T06:46:04+01:00",
             "date_modified": "2022-05-19T06:04:58+01:00"
-        },
-        {
-            "id": "https://pasiongavilanes.ml/capitulo-56-2/",
-            "url": "https://pasiongavilanes.ml/capitulo-56-2/",
-            "title": "Capitulo 57",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4007430785684\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://pasiongavilanes.ml/media/posts/64/Pasion-de-Gavilanes-2-Capitulo-56-Completo.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "Capitulos"
-            ],
-            "date_published": "2022-05-07T05:21:48+01:00",
-            "date_modified": "2022-05-19T06:05:32+01:00"
         }
     ]
 }
